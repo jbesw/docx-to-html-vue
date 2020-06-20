@@ -1,6 +1,6 @@
 # docx-to-html
 
-Converts DOCX to HTML. 
+Converts DOCX to HTML using the Mammoth and Cheerio NPM packages. Really useful for copying documents from Word to WordPress. Have fun!
 
 ## Project setup
 ```

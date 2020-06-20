@@ -10,8 +10,10 @@
     <div>
       <p class="htmlOutput">{{ htmlOutput }}</p>
     </div>
+    <hr>
     <h3>Questions?</h3>
     <p>Contact <a href="https://twitter.com/jbesw/">@jbesw</a> on Twitter.</p>
+    <p>View the <a href="https://github.com/jbesw/docx-to-html-vue">source code</a>. Published to the world using <a href="https://aws.amazon.com/amplify/">AWS Amplify</a>.</p>
   </div>
 </template>
 
